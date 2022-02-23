@@ -1,0 +1,90 @@
+b,small{
+    font-size: 65px;
+    font-family: sans-serif;
+   }
+.text{
+    font-size: 35px;
+    font-family: sans-serif;
+}
+div{
+    margin-top:150px;
+}
+
+span{
+    margin-left: 360px;
+}
+b{margin-left: 280px;    
+}
+.container{
+    display: flex;
+    flex-direction: row;margin-top: 50px;
+    margin-left:300px;
+}
+.box1{
+    border: 2px solid red;
+    height: 400px;
+    width: 230px;
+    border-radius: 15px;
+    margin: 5px;
+}
+.box2{
+    border: 2px solid red;
+    height: 400px;
+    width: 230px;
+    border-radius: 15px;
+    margin-top: 5px;
+    margin-left: 50px;
+}
+.box3{
+    border: 2px solid red;
+    height: 400px;
+    width: 230px;
+    border-radius: 15px;
+    margin-top: 5px;
+    margin-left: 50px;
+}
+.h1{
+    color: red;
+    font-size: 25px;
+    font-family: sans-serif;
+    margin-top: 35px;
+}
+.h2{
+    color: red;
+    font-size: 25px;
+    font-family: sans-serif;
+    margin-top: 35px;
+}
+.h3{
+    color: red;
+    font-size: 25px;
+    font-family: sans-serif;
+    margin-top: 35px;
+}
+.hr1{
+    margin-left:45px
+}
+.hr2{
+    margin-left:45px
+}
+.hr3{
+    margin-left:45px
+}
+.del1{
+    color: red;
+    font-size: 25px;
+    font-family: sans-serif;
+   margin-left: 22px;
+  }
+.form1{
+    font-size: 30px;  
+    margin-top:40px;
+}
+.del2{
+    margin-top: 65px;
+}
+.btn{
+    display: flex;
+    align-items: center;
+    float: right
+}

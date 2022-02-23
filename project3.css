@@ -1,0 +1,60 @@
+hr{
+    display:inline-block;
+    width:200px;
+}
+p{
+    display:inline-block;
+    font-size: 60px;
+    font-family: sans-serif;
+}
+.container{
+display: flex;
+}
+.box{
+    border: 2px solid red;
+    height: 300px;
+    width: 350px;
+    border-radius: 15px;
+    margin-top: 80px;
+    margin-left:440px;
+}
+.h1{
+    color: red;
+    font-size: 25px;
+    font-family: sans-serif;
+    margin-top: 35px;}
+ .hr1{
+        margin-left:150px
+    }
+    .del1{
+        color: red;
+        font-size: 25px;
+        font-family: sans-serif;
+       margin-left: 80px;
+       margin-top: 40px;
+      }
+      .form1{
+        font-size: 30px;  
+        margin-top:40px;
+        margin-left: 50px;
+    }
+    .blurrr{filter: blur(5px);}
+    .container1{
+        display: flex;
+        flex-direction: row; 
+        margin-top:0px;
+        margin-left:500px;
+    }
+    .box5{
+        border: 5px solid red;
+        height: 600px;
+        width: 300px;
+        border-radius: 15px;
+        margin-top: 0px;   
+        padding-left: 130px;
+        padding-top: 10px;
+        font-size: 10px;
+    
+    }
+   /*p{padding-left: 33px;padding-bottom: 15px;}
+
